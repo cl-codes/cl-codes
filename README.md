@@ -5,7 +5,7 @@ I'm a career changer looking to get into software development (moving on from a 
 - 💻 Python, React, Javascript, Typescript, Node.js, MongoDB, SQL
 - 🎓 Recently completed the Hatchways Career Accelerator Program
 - 🌱 Currently learning more about front-end development!
-- ⚡ Fun fact: Spent half of 2021 exploring West Coast USA and Europe. Always excited to talk about travel!
+- ⚡ Fun fact: I spent half of 2021 exploring West Coast USA and Europe. Always excited to talk about travel!
 <!--
 **cl-codes/cl-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
